@@ -1,0 +1,19 @@
+[theme]
+# El color principal (botones, deslizadores, bordes resaltados)
+# Usamos un turquesa un poco más oscuro para que los botones resalten sobre el fondo claro.
+primaryColor = "#00A8B5"
+
+# El color de fondo del área principal (donde va el chat)
+# Usamos un celeste muy clarito, casi blanco, para que no canse la vista.
+backgroundColor = "#F0FDFF"
+
+# El color de fondo de la barra lateral y las burbujas de chat
+# ¡AQUÍ ESTÁ TU COLOR CELESTE PROTAGONISTA!
+secondaryBackgroundColor = "#B2FFFF"
+
+# El color del texto
+# Un gris oscuro azulado, más suave que el negro puro.
+textColor = "#2C3E50"
+
+# La fuente (opcional, 'sans serif' es limpia y moderna)
+font = "sans serif"
